@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/%7Bcv-app%7D/static/css/main.f8a861cf.chunk.css",
+    "main.js": "/%7Bcv-app%7D/static/js/main.8184a3dd.chunk.js",
+    "main.js.map": "/%7Bcv-app%7D/static/js/main.8184a3dd.chunk.js.map",
+    "runtime-main.js": "/%7Bcv-app%7D/static/js/runtime-main.8a259eb6.js",
+    "runtime-main.js.map": "/%7Bcv-app%7D/static/js/runtime-main.8a259eb6.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/%7Bcv-app%7D/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.e46ccc2f.chunk.js": "/%7Bcv-app%7D/static/js/2.e46ccc2f.chunk.js",
+    "static/js/2.e46ccc2f.chunk.js.map": "/%7Bcv-app%7D/static/js/2.e46ccc2f.chunk.js.map",
+    "static/js/3.a68fc5a5.chunk.js": "/%7Bcv-app%7D/static/js/3.a68fc5a5.chunk.js",
+    "static/js/3.a68fc5a5.chunk.js.map": "/%7Bcv-app%7D/static/js/3.a68fc5a5.chunk.js.map",
+    "index.html": "/%7Bcv-app%7D/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/%7Bcv-app%7D/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.f8a861cf.chunk.css.map": "/%7Bcv-app%7D/static/css/main.f8a861cf.chunk.css.map",
+    "static/js/2.e46ccc2f.chunk.js.LICENSE.txt": "/%7Bcv-app%7D/static/js/2.e46ccc2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a259eb6.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.e46ccc2f.chunk.js",
+    "static/css/main.f8a861cf.chunk.css",
+    "static/js/main.8184a3dd.chunk.js"
+  ]
+}

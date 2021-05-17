@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/header/header.styles.css"],"names":[],"mappings":"AAAA,QACC,oBAAa,CAAb,YAAa,CACb,qCAA8B,CAA9B,6BACD","file":"main.f8a861cf.chunk.css","sourcesContent":[".header{\n\tdisplay: flex;\n\tjustify-content: space-between;\n}"]}
