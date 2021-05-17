@@ -37,7 +37,6 @@ class ViewWrapper extends React.Component {
 		const target = e.target;
 		const value = target.value;
 		const name = target.name;
-		console.log(name);
 		this.setState( prevState=> {
 			const data= Object.assign({}, prevState.formData);
 			data[name] = value
@@ -45,7 +44,6 @@ class ViewWrapper extends React.Component {
 				formData: data
 			}
 		});
-		console.log(this.state)
 	}
 
 	render(){

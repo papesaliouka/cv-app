@@ -3,9 +3,11 @@ import './header.styles.css';
 
 const Header = ()=>{
 	return(
-		<header className=' header bg-black-90  w-100 ph3 pv3 pv4-ns ph4-m ph5-l'>
-			<span className='f2 dim white dib mr3'>Title</span>
-		</header>
+		<div style={{'display': 'flex', 'justifyContent' : 'center'}}>
+			<header className=' header bg-black-90  tc w-100 ph3 pv3 pv4-ns ph4-m ph5-l'>
+				<span className='f2 dim white dib'>CV APP</span>
+			</header>
+		</div>
 	);
 }
 
