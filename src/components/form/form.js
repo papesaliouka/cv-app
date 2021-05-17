@@ -1,6 +1,5 @@
 import React from 'react';
 import Input from '../input/input.component';
-import Button from '../button/button.component';
 import Scroll from '../scroll/scroll.component';
 import Label from '../label/label.component';
  const Form = ({sections, handleSubmit})=>{
@@ -20,7 +19,6 @@ import Label from '../label/label.component';
                     <Input name={sections[2].labels[0]} handleSubmit={handleSubmit} /> 
                     <Input name={sections[2].labels[1]} handleSubmit={handleSubmit} />
                     <Input name={sections[2].labels[2]} handleSubmit={handleSubmit} /> 
-                    <Button edit/>
                 </form>
              </Scroll>
          </div>
